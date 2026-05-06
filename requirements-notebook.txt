@@ -1,0 +1,9 @@
+notebook>=6.5
+ipykernel
+pandas
+numpy
+scikit-learn==1.7.2
+matplotlib
+seaborn
+joblib
+pydantic

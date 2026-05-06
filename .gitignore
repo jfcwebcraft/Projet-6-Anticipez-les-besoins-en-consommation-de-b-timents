@@ -1,0 +1,77 @@
+### Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Pytest
+.pytest_cache/
+
+# Docker
+docker-compose.override.yml
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts
+model/
+
+# Data intermédiaire
+*.joblib
+feature_names.json
+
+# Environnement
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives (correction de référence)
+archives/
+
+# Dossiers instructions originaux
+Partie 1/
+Partie 2/
+Livrable/
