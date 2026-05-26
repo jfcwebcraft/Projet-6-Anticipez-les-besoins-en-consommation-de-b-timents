@@ -123,3 +123,4 @@ class EnergyPredictionService:
     def healthcheck(self) -> dict:
         return {"status": "ok", "model_features": len(feature_names)}
 
+
